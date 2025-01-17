@@ -6,12 +6,12 @@
 
 ## Технологии и инструменты
 
-* **Базы данных:** PostgreSQL, SQL
-* **Языки программирования:** Python, Java, JavaScript
+* **Базы данных:** PostgreSQL
+* **Языки программирования:** Python, Java, SQL
 * **Системы контроля версий:** Git
-* **Хостинг кода:** Github, Gitlab
+* **Хостинг кода:** Github, Gitlab, Fork
 * **Инструменты для тестирования API:** Postman
-* **Инструменты для управления базами данных:** pgAdmin
+* **Инструменты для управления базами данных:** pgAdmin, DBeaver
 * **Интегрированные среды разработки:** Jetbrains Pycharm, Jetbrains IntelliJ IDEA, Microsoft VS Code
 
 ## GitHub Stats
